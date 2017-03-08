@@ -78,7 +78,6 @@ BuildRequires: hybris-libsensorfw-qt5
 
 # Graphics
 BuildRequires: qt5-qpa-hwcomposer-plugin
-BuildRequires: qtscenegraph-adaptation
 
 %description
 SailfishOS HW Adaptation %{rpm_device} version/umbrella package (%{version}.%{_obs_build_count}) for %{_target_cpu} platform.
